@@ -28,7 +28,7 @@
 | <li> [ ] </li> | Slumbering Weald | ?
 | <li> [x] </li> | Route 1 | Birb
 | <li> [x] </li> | Route 2 | Tortel
-| <li> [ ] </li> | Route 3 | ?
+| <li> [x] </li> | Route 3 | Vuilnis
 | <li> [ ] </li> | Galar Mine | ?
 | <li> [ ] </li> | Route 4 | ?
 | <li> [ ] </li> | Route 5 | ?
