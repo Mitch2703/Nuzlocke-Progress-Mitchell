@@ -26,8 +26,8 @@
 | Caught | Route | Pokemon
 |:----:|--------|--------|
 | <li> [ ] </li> | Slumbering Weald | ?
-| <li> [ ] </li> | Route 1 | ?
-| <li> [ ] </li> | Route 2 | ?
+| <li> [x] </li> | Route 1 | Birb
+| <li> [x] </li> | Route 2 | Tortel
 | <li> [ ] </li> | Route 3 | ?
 | <li> [ ] </li> | Galar Mine | ?
 | <li> [ ] </li> | Route 4 | ?
