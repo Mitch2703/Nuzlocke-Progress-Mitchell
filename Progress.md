@@ -29,9 +29,9 @@
 | <li> [x] </li> | Route 1 | Birb
 | <li> [x] </li> | Route 2 | Tortel
 | <li> [x] </li> | Route 3 | Vuilnis
-| <li> [ ] </li> | Galar Mine | ?
-| <li> [ ] </li> | Route 4 | ?
-| <li> [ ] </li> | Route 5 | ?
+| <li> [x] </li> | Galar Mine | Steenman
+| <li> [x] </li> | Route 4 | Peek-at-you
+| <li> [ ] </li> | Route 5 | EendMetPrei
 | <li> [ ] </li> | Galar Mine No. 2 | ?
 | <li> [ ] </li> | Motostoke Outskirts | ?
 | <li> [ ] </li> | Route 6 | ?
